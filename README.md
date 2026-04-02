@@ -1,4 +1,8 @@
 ﻿<div align="center">
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Mario Banner" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Humoyun&fontAlign=50&fontAlignY=38&color=0:0f172a,50:1d4ed8,100:38bdf8&fontColor=f8fafc&desc=Python%20Backend%20Developer%20from%20Uzbekistan&descAlign=50&descAlignY=60" width="100%" alt="Header" />
 </div>
 
@@ -11,7 +15,7 @@
   <a href="https://github.com/Humoyun-py?tab=followers">
     <img src="https://img.shields.io/github/followers/Humoyun-py?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
   </a>
-  <img src="https://img.shields.io/github/repos-username/Humoyun-py?label=Public+Repos&style=for-the-badge&color=58A6FF" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Public%20Repos-Humoyun--py-58A6FF?style=for-the-badge" alt="Public Repos" />
 </div>
 
 ---
@@ -28,7 +32,7 @@
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Humoyun-py&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Humoyun-py&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophies" />
 </div>
 
 ---
