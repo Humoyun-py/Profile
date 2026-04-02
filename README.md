@@ -50,7 +50,7 @@
 
 Agar `output` branch hali yaratilmagan bo'lsa, snake rasmi avvaliga chiqmaydi. Workflow bir marta ishga tushgandan keyin mana shu rasm ko'rinadi:
 
-![Snake Animation](https://github.com/Humoyun-py/Humoyun-py/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Humoyun-py/Humoyun-py/output/github-contribution-grid-snake-dark.svg)
 
 ## Important
 
