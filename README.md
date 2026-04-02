@@ -1,26 +1,26 @@
 ﻿# Assalomu alaykum, men Humoyun
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Humoyun%20Jo%27rayev&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1d4ed8,100:38bdf8&fontColor=f8fafc&desc=Python%20Backend%20Developer%20%7C%20Telegram%20Bot%20Creator&descAlign=50&descAlignY=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Humoyun&fontAlign=50&fontAlignY=40&color=0:0f172a,50:1d4ed8,100:38bdf8&fontColor=f8fafc&desc=Python%20Backend%20Developer%20%7C%20Telegram%20Bot%20Developer&descAlign=50&descAlignY=62" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Telegram+Bot+Developer;GitHub+profilimga+xush+kelibsiz" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Telegram+Bot+Developer;Django+va+Backend+ustida+ishlayman" alt="Typing" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Humoyun-py&label=Profile%20views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Humoyun-py?style=for-the-badge&color=2563eb&labelColor=111827" alt="Followers" />
-  <img src="https://img.shields.io/github/repos-username/Humoyun-py?style=for-the-badge&color=0ea5e9&labelColor=111827" alt="Public Repos" />
-  <img src="https://img.shields.io/github/stars/Humoyun-py/Profile?style=for-the-badge&color=0284c7&label=profile%20repo%20stars&labelColor=111827" alt="Profile Repo Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Humoyun-py&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Humoyun-py?style=for-the-badge&label=Followers&color=2563eb&labelColor=111827" alt="Followers" />
+  <img src="https://img.shields.io/github/repos-username/Humoyun-py?style=for-the-badge&label=Public%20Repos&color=0ea5e9&labelColor=111827" alt="Public Repos" />
+  <img src="https://img.shields.io/github/stars/Humoyun-py/Profile?style=for-the-badge&label=Profile%20Repo%20Stars&color=0284c7&labelColor=111827" alt="Profile Repo Stars" />
 </p>
 
 ## About Me
 
 - Python backend va Telegram botlar ustida ishlayman.
 - Django bilan web ilovalar yaratishni yoqtiraman.
-- GitHub profilimni chiroyli va professional ko'rinishda olib boraman.
-- Hozir o'sayotgan yo'nalishlarim: API, deployment va clean code.
+- API, deployment va clean code yo'nalishida rivojlanyapman.
+- GitHub profilimni chiroyli va tartibli ko'rinishda olib borishni yoqtiraman.
 
 ## Tech Stack
 
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <sub>`GitHub Stats` kartasidagi stars soni umumiy public repository yulduzlari bo'ladi. `Profile Repo Stars` esa faqat shu `Profile` repository yulduzlarini ko'rsatadi.</sub>
+  <sub>Bu kartalarda ko'rsatiladigan statistika GitHub username `Humoyun-py` bilan bog'langan.</sub>
 </p>
 
 ## Contribution Activity
@@ -66,8 +66,14 @@
 
 ## Connect With Me
 
-- Telegram: [@humoyun_coder](https://t.me/humoyun_coder)
-- Email: [freif56@gmail.com](mailto:freif56@gmail.com)
+<p align="center">
+  <a href="https://t.me/humoyun_coder">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:freif56@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## Snake Animation
 
@@ -77,4 +83,4 @@
 
 ## Important
 
-Bu README GitHub profil sahifasida chiqishi uchun repository nomi aynan `Humoyun-py` bo'lishi kerak.
+Bu README GitHub profil sahifasida to'liq chiqishi uchun repository nomi aynan `Humoyun-py` bo'lishi kerak. Hozirgi repo `Profile`, shuning uchun bu README repo ichida ko'rinadi, lekin profile sahifada ko'rinishi uchun repo nomi username bilan bir xil bo'lishi kerak.
